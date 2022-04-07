@@ -1,0 +1,3 @@
+#product-list-sidebar .product-list-item .product-info p.product-price span:first-child, #product-list .product-list-item .product-info p.product-price span:first-child {
+    display: initial;
+}

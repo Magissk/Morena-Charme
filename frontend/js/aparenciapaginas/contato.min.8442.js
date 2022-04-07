@@ -1,0 +1,1 @@
+function sendForm(){$("#ContatoContatoForm").submit()}$(function(){$("#ContatoContatoForm").validate(),$(document).on("click","#send-form",function(){grecaptcha.execute()}),$("#ContatoContatoForm").on("submit",function(){if($("#ContatoContatoForm").valid())return $(".loading-page").fadeIn(),!0})});
