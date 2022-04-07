@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: Googlebot-image
+Disallow: 
+User-agent: Baiduspider
+Disallow: /
+User-agent: *
+Disallow: /carrinhos/
+Disallow: /pages/
+Disallow: /EntregaFormas/
+Disallow: /PagamentoIntegradores/
+Disallow: /api/
+Disallow: /clientes
+Disallow: /pedidos/
+Disallow: /clientes/
+Disallow: /carrinho
+Disallow: /nao-encontrado
+Disallow: /busca
+Disallow: /mais-vendidos
+Disallow: /promocoes
+Disallow: /indisponivel
+Disallow: /produto/
+Allow: /painel/api/captcha
+Disallow: /painel/
+Sitemap: https://www.morenacharme.com.br/sitemap.xml
